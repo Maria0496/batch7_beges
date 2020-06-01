@@ -14,7 +14,7 @@ Les estimations de GES sont réalisées en croisant ces données d’activité a
 - Artus
 - Ayoub
 - Gustave : data scientist ([linkedin](https://www.linkedin.com/in/gustave-ronteix-677a82ba/), [github](https://github.com/gronteix))
-- Maria
+- Maria: Data analyst / data visualization ([linkedin] (https://www.linkedin.com/in/mariaanaya/), [github](https://github.com/Maria0496))
 - Maxime
 - Svetlana
 - Tallulah
